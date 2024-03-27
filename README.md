@@ -1,5 +1,5 @@
 # 💫 About Me:
-➲ Full Stack Dev / SWE @ Texas A&M<br>➲ Interested in Web3, UI/UX, Statistics<br>➲ Bitcoin Marketplace Engineer @ DeFintek<br>➲ Project Manager @ Virtual eSports Coach
+➲ Full Stack Dev / SWE, CS @ Texas A&M<br>➲ Interested in Web3, UI/UX, Statistics<br>➲ Bitcoin Enthusiast <br>➲ Project Manager @ Virtual eSports Coach
 
 
 ## 🌐 Socials:
