@@ -1,6 +1,5 @@
 # 💫 About Me:
-➲ Full Stack Dev / SWE, CS @ Texas A&M<br>➲ Interested in Web3, UI/UX, Statistics<br>➲ Bitcoin Enthusiast <br>➲ Project Manager @ Aggie Coding Club
-
+➲ Full Stack Dev / SWE, CS @ Texas A&M<br>➲ Interested in Web3, UI/UX, Statistics<br>➲ Bitcoin Enthusiast
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liu-chris) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chreamy) 
